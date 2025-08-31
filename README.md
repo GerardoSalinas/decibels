@@ -1,5 +1,17 @@
 ![Image](./header.png)
 
+# Smart Contract link
+
+[contract_address](https://sepolia.arbiscan.io/address/0xae38a87b0b7097893f2313250cf7f319b069a1a2)
+
+# Smart contract address
+
+0xae38a87b0b7097893f2313250cf7f319b069a1a2
+
+# Live demo
+
+[decibels](https://decibels-ten.vercel.app/)
+
 # Stylus Hello World
 
 Project starter template for writing Arbitrum Stylus programs in Rust using the [stylus-sdk](https://github.com/OffchainLabs/stylus-sdk-rs). It includes a Rust implementation of a basic counter Ethereum smart contract:
