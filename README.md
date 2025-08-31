@@ -12,9 +12,10 @@
 
 [decibels](https://decibels-ten.vercel.app/)
 
-# Video
+# Videos
 
-[decibels_demo_video](https://youtu.be/tiDqRY7YvOk)
+[decibels_demo_video1](https://youtu.be/tiDqRY7YvOk)
+[decibels_demo_video2](https://youtu.be/2FLcW4HZ5MQ)
 
 # Stylus Hello World
 
