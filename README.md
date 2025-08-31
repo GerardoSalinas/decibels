@@ -12,6 +12,10 @@
 
 [decibels](https://decibels-ten.vercel.app/)
 
+# Video
+
+[decibels_demo_video](https://youtu.be/tiDqRY7YvOk)
+
 # Stylus Hello World
 
 Project starter template for writing Arbitrum Stylus programs in Rust using the [stylus-sdk](https://github.com/OffchainLabs/stylus-sdk-rs). It includes a Rust implementation of a basic counter Ethereum smart contract:
